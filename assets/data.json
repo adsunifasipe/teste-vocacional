@@ -1,0 +1,111 @@
+{
+    "atividades":
+    [
+        {
+            "id":1,
+            "atividade":"Jogar FIFA no Playstation",
+            "curso":"ads"    
+        },
+        {
+            "id":2,
+            "atividade":"Adiciona e remove programas do seu computador",
+            "curso":"ads" 
+        },
+        {
+            "id":3,
+            "atividade":"Procura tutoriais na internet",
+            "curso":"ads" 
+        },
+        {
+            "id":4,
+            "atividade":"Gosta de Cuidar de pessoas",
+            "curso":"enfer" 
+        },
+        {
+            "id":5,
+            "atividade":"Faz curativos quando precisa",
+            "curso":"enfer" 
+        },
+        {
+            "id":6,
+            "atividade":"Gosta de Equipe e pessoas",
+            "curso":"enfer" 
+        },
+        {
+            "id":7,
+            "atividade":"Pegada mais artística",
+            "curso":"arq" 
+        },
+        {
+            "id":8,
+            "atividade":"Gosta de decoração",
+            "curso":"arq" 
+        },
+        {
+            "id":9,
+            "atividade":"Gosta de desenhar",
+            "curso":"arq" 
+        },
+        {
+            "id":10,
+            "atividade":"Criar e adaptar receitas",
+            "curso":"nutri" 
+        },
+        {
+            "id":11,
+            "atividade":"Se preocupa com alimentação",
+            "curso":"nutri" 
+        },
+        {
+            "id":12,
+            "atividade":"Gosta de cuidar da Saúde",
+            "curso":"nutri" 
+        },         
+        {
+            "id":13,
+            "atividade":"Trabalhar em Escritório",
+            "curso":"odonto" 
+        },    
+        {
+            "id":14,
+            "atividade":"Habilidades manuais",
+            "curso":"odonto" 
+        },    
+        {
+            "id":15,
+            "atividade":"Se interessa pela saúde Bucál",
+            "curso":"odonto" 
+        }
+    ],
+    "cursos":
+    {
+        "ads": {
+            "descricao":"Análise e Desenvolvimento de Sistemas",
+            "fone":"66999554613"
+        },
+        "enfer":{
+            "descricao":"Enfermagem",
+            "fone":"66992175253"
+        },
+        "arq":{
+            "descricao":"Arquitetura e Urbanismo",
+            "fone":"66996074007"
+        },
+        "nutri":{
+            "descricao":"Nutrição",
+            "fone":"42999373116"
+        },
+        "fisio":{
+            "descricao":"Fisioterapia",
+            "fone":"66999338061"
+        },
+        "odonto":{
+            "descricao":"Odontologia",
+            "fone":"66996250076"
+        },
+        "bio":{
+            "descricao":"Biomedicina",
+            "fone":"66 99978-4381"
+        }
+    }
+}
