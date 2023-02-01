@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "Rubik";
+    src: url(../../fonts/Rubik.ttf);
+}
+
+@font-face {
+    font-family: "IBMPlexSans";
+    src: url(../../fonts/IBMPlexSans.ttf);
+}
+  
+
+iframe {
+    border: 0;
+}
+
+figcaption,
+figure,
+main {
+    display: block;
+    font-family: "Rubik";
+    background-image: url("../../background.png");
+    min-height: 100vh;
+    min-width: 100vw;
+}
+
+main {
+    overflow: hidden;
+}
